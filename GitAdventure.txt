@@ -15,8 +15,8 @@ of useful insight about the app, how to download it, and features included. It's
 for public use.
 
 3. https://github.com/NoelFB/Celeste
-I chose to take a look into the game "Celeste" since I recall hearing that the game was open source. This repo is just that,
-it offers the source files and framework for the game itself and I believe it updates whenever the game itself is updated so
+I chose to take a look into the game "Celeste" since I recall hearing that the game was open source. This repo is just that.
+It offers the source files and framework for the game itself and I believe it updates whenever the game itself is updated so
 that people can help debug the game if needed. If you go to the source file and then Classic.cs, you can find all of the
 code used in the game and all of the classes. I think this is super neat because it gives me some insight as to how
 other people make games. I see a lot of methods and a LOT of member variables being used for initializing different
