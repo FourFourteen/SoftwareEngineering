@@ -1,0 +1,42 @@
+1.
+https://github.com/delaford/game
+Delaford game is described as an online, 2D medieval game. It uses JS and HTML5 to run. This repository is really cool
+because the author includes mechanics that are and arent implemented that others can fix themselves. The author also
+includes sources for people to go to if they need help working on this project. I really like this because the author
+openly invites new people to work on this project and even includes resources for them to go to if they need. I think
+I may even try working on this as it would be an excellent learning experience.
+
+2. https://github.com/microsoft/calculator
+This is a repo for the code behind the windows calculator. I thought this was so cool because I didn't know code like
+this was openly available. It's really neat to think that I could download this code and make personal changes to the 
+calculator that might be helpful in the future! I mean, overall, I'm just surprised something like this is open source, so
+I'm curious what else may be out there. Im also noticing that a lot of these repos have "README.md" files that offer a lot
+of useful insight about the app, how to download it, and features included. It's awesome that code like this is available
+for public use.
+
+3. https://github.com/NoelFB/Celeste
+I chose to take a look into the game "Celeste" since I recall hearing that the game was open source. This repo is just that,
+it offers the source files and framework for the game itself and I believe it updates whenever the game itself is updated so
+that people can help debug the game if needed. If you go to the source file and then Classic.cs, you can find all of the
+code used in the game and all of the classes. I think this is super neat because it gives me some insight as to how
+other people make games. I see a lot of methods and a LOT of member variables being used for initializing different
+levels and for keeping track of certain actions. This really does give a lot of insight so I'll need to remember
+that if I'm ever stuck on some code, I can always try and find a similar repo and see how they went about solving a
+certain problem.
+
+4. https://github.com/discordjs/discord.js
+This is a repo for the discord.js library. It contains all of the methods used for creating discord bots. I have
+been attempting to create my own discord bot recently and I've actually glanced at this repo a couple times, however, it's
+a little overwhelming too look at. Now that I'm getting a hang of git, though, this rep will definitely be a TON of help
+because now I can see specifically how certain methods work, all of their arguements and overloads, and so much more.
+I do want to learn about install functions though... there are key words such as "npm", "yarn", and "pnpm" and I'm
+curious what those mean and how they work. I think I will do some extra research about them because it would be nice to
+understand what it means.
+
+5. https://github.com/github/gitignore/blob/main/Unity.gitignore
+We looked at this ".gitignore" repo in class but this file is specifically for unity. I chose to look into this file
+because I will be using it very soon so it'll be important to understand what is happening inside of this file. Looking
+through this file, it seems that a lot of the ignored file types and folders are auto generated. Being able to just copy
+and paste this unity.gitignore will be a super useful shortcut because I find that it can be hard locatign and finding every
+single file that is being included in a project and this does it all for you. Some files can even be invisible or hard to
+find, so this makes the process a ton more easier.
