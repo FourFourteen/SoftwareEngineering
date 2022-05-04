@@ -37,6 +37,6 @@ understand what it means.
 We looked at this ".gitignore" repo in class but this file is specifically for unity. I chose to look into this file
 because I will be using it very soon so it'll be important to understand what is happening inside of this file. Looking
 through this file, it seems that a lot of the ignored file types and folders are auto generated. Being able to just copy
-and paste this unity.gitignore will be a super useful shortcut because I find that it can be hard locatign and finding every
+and paste this unity.gitignore will be a super useful shortcut because I find that it can be hard locating and finding every
 single file that is being included in a project and this does it all for you. Some files can even be invisible or hard to
 find, so this makes the process a ton more easier.
